@@ -1,6 +1,6 @@
-- 👋 Hi, I’m mustafa ;
-- 👀 I’m interested in programmer ; 
-- 🌱 I’m currently learning computer programming at the university;
+- 👋 Hi, I'm mustafa ; 
+- 👀 I'm full stack developer;
+- 🌱 I’m  computer programmer;
 - 💞️ I’m looking to collaborate on ..... ;
 - 📫 How to reach me 
 // instagram:@1mmh3 ;
