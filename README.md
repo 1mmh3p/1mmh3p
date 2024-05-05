@@ -14,6 +14,6 @@
 </p> 
 
 ### 📈 Some stats
-<a href="https://metrics.lecoq.io/insights/1mmh3p">Mohab's GitHub metrics </a>
+<a href="https://metrics.lecoq.io/insights/1mmh3p">Mustafa GitHub metrics </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=1mmh3p" alt="1mmh3p" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1mmh3p&show_icons=true&locale=en&layout=compact" alt="1mmmh3p" /> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1mmh3p&show_icons=true&locale=en" alt="1mmh3p" /></p>
